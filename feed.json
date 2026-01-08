@@ -1,0 +1,10 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Zerocchi",
+	"icon": "https://micro.blog/Zerocchi/avatar.jpg",
+	"home_page_url": "https://zerocchi.com/",
+	"feed_url": "https://zerocchi.com/feed.json",
+	"items": [
+		
+	]
+}
